@@ -1,1 +1,1 @@
-# jaypraja-Machine-Learning_Lab
+# Machine-Learning_Lab
